@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bwmas/Documents/GitHub/group1/Codebound/Content/TheMotherboard.umap",
+				"C:/Users/bwmas/Documents/GitHub/group1/Codebound/Content/ThirdPerson/Maps/TheMotherboard.umap",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/ThirdPerson/Maps/Level_2.umap",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/ThirdPerson/Maps/Level_3.umap",
@@ -437,7 +439,6 @@
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/DK/ZBDPEZ04HFFJ117SV75RFI.uasset",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FJ/GRMVUNQ5C0DEGYPJ2JRHPU.uasset",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P6/NUGXVTW5LQL6RKUCL0TZQS.uasset",
-				"C:/Users/bwmas/Documents/GitHub/group1/Codebound/Content/TheMotherboard.umap",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/LaserSword/Lightsaber.uasset",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WQ/M1RS0ME7KT7JTVLQAQEEDB.uasset",
 				"C:/Users/cdeal/Desktop/group1/Codebound/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
